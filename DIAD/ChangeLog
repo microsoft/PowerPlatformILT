@@ -1,0 +1,158 @@
+DIAD Change Log
+
+March 2020 (Online)
+•	Update the DIAD content
+•	Change the agenda and flow of the day – to enable online delivery 
+February 2020
+•	Adding mobile experience to the lab 
+•	Fixing Power Automate screens 
+•	Presentation Deck: Gartner 2020 updates, community slides updated, added mobile slide 
+December 2019 
+•	Links fix 
+•	Format fix 
+November 2019
+•	Updated outstanding issues – removal of Manufacturer (Groups) & icon button change
+•	Updated accessibility
+•	Updated the Prerequisites 
+•	Added speaker notes in the trainers slide deck
+October 2019
+•	Updated screenshots to show added reports to the Visualization panel
+•	Updated screenshots of the new Q&A experience
+•	Updated all visuals to make document accessible compliant
+September 2019
+•	Introduced new theme
+•	Updated screenshots to use new default theme
+•	Started making document accessible compliant
+August 2019
+•	Introduced Conditional formatting using icons
+•	Updated screenshots
+July 2019
+•	Included New Filter experience in HoL and Demo content
+•	Updated screenshots
+June 2019
+•	Updated screenshots to match new UX
+May 2019
+•	Updated screenshots
+•	Updated instructor notes to include Performance Analyzer
+February 2019
+•	Updated dataset to include data for 2018
+•	Introduced Personal Bookmarks
+December 2018
+•	Added a note regarding smart guides to align visuals
+•	Updated screenshots
+November 2018
+•	Included +/- icon feature in matrix visual
+•	Added a step to introduce out of the box themes
+•	Updated screenshots
+October 2018
+•	Added Top N visual using Ask A Question feature
+•	Updated screenshots
+August 2018
+•	Introduced Ask A Question feature in Power BI Desktop
+•	Introduced New Improved Workspace feature. Attendee now publishes the content to New Improved Workspace
+•	Added Collaboration and Distribution section
+July 2018
+•	Changed layout from Landscape to Portrait to reduce number of pages
+•	Updated Demo content for morning and afternoon session
+May 2018
+•	Added multiple themes
+•	Updated screenshots
+•	Updated demo content
+April 2018
+•	Complete revamp of DIAD. Updated dataset with updated lab content
+December 2017
+•	Added Q&A for report creating to demo content
+•	Added Bookmark feature updates to demo content
+November 2017
+•	Reports based on a square grid, removing 2 visuals from report the attendees create  (estimated this will save ~40 minutes)
+•	Removed 1 column from dashboard  (estimated this will save 15 minutes time) 
+•	Optional Modules: in many cases instructors are deviating from the curriculum for the last two hours and applying the previous lessons to their own datasets. In the spirit of reducing the content and a more factored experience following sections are optional for training:
+1.	Refresh/Gateways
+2.	Groups/content Packs
+3.	Excel upload
+4.	Row level security  
+October 2017
+•	Introduction to Bookmarks and Spotlight features in DIAD and demo content.
+September 2017
+
+•	Added ribbon chart visual.
+•	Introduced drillthrough filter.
+•	Added report insights feature to demo content.
+August 2017
+
+•	Updated data set to include 2017 data.
+•	Introduction to conditional formatting with font color.
+•	Added What if feature to demo content.
+July 2017
+
+•	Updated material to use new table and matrix visuals (these visuals are GA now).
+•	Updated material to import custom visual from store.
+•	Introduced to renaming fields in visuals.
+June 2017
+
+•	Highlighted Data bars feature.
+•	Added Markers and high density line sampling features to Demo script.
+•	Introduction to Apps in Demo script.
+April 2017
+
+**Major update with data, flow of the lab and visuals used in the lab. Here are the highlights:
+•	Added data for Australia and Japan.
+•	Revamped visuals that are created by the attendees.
+•	Introduced themes.
+•	Introduction to the new service navigation. 
+March 2017
+
+•	Replace Matrix visual with Matrix Preview visual to highlight drill and filter capabilities.
+•	Highlighted Clustering feature.
+•	Added Theming feature to Demo script.
+•	Added Numeric slicer to Demo script. 
+February 2017
+
+•	Updated Get Data from folder to use Combine and Edit functionality.
+•	Added steps to show X-axis and Y-axis font size control.
+•	Added steps to highlight minimum category width feature.
+•	Added Quick Calcs – Percent of row total & Percent of column total to Demo script.
+•	Added PowerApps Common Data Service connector to Demo script.
+January 2017
+
+•	Updated screenshots.
+•	Highlighted updates to table and matrix formatting.
+December 2016
+
+•	Highlighted Hierarchical Axis feature in Data Exploration section.
+•	Highlighted Axis label and title control feature in Data Exploration section.
+•	Highlighted matrix formatting functionality.
+•	Updated Year slicer to highlight slicer dropdown functionality.
+•	Added Gridlines, Snap to grid feature.
+November 2016
+
+•	Added Grouping, Include, Exclude and Date slicer features in Data Exploration section.
+•	Top N filter feature highlighted while selecting top competitors.
+•	Removed MonthYear field from the dataset.
+•	Sort by Column feature was covered twice in the lab, removed one instance.
+•	Added links to some of the key features.
+•	Added Gridlines, Snap to grid, ArcGIS map feature highlights to Demo material.
+October 2016
+
+•	Updated data source format for Date, Manufacturer and Product.
+•	Renamed source folders FactData, FactData1 and FactData2 to USSales, InternationalSales and GermanySales.
+•	Added steps to highlight Fill, Split and Transpose, Remove Column features.
+•	Highlighted Query Dependency feature.
+•	Added step to highlight Home table for measures.
+•	Broke down QnA steps so user can see the interaction one step at a time.
+•	Added mobile layout and Forecasting feature highlights to Demo material.
+September 2016
+
+•	Removed Table Style formatting.
+•	Added Matrix Style formatting.
+•	Introduction to Analytics pane, by adding a Median Line.
+•	Added a preview to Alerts.
+August 2016
+
+•	Added Table Style formatting.
+July 2016
+
+•	Updated data set to include 2016 data.
+•	Updated gateway set up.
+
+
